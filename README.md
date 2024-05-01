@@ -35,7 +35,7 @@ https://github.com/gustavocampelo/DesafioControleFluxo.git
 
 ## *Autor*
 **Este desafio foi codificado por [Gustavo Campelo](https://github.com/gustavocampelo).<br><br>**
-**[O desafio original foi proposto por Gleyson Sampaio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe).**
+**[O desafio original foi proposto por Gleyson Sampaio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo).**
 
 ## *Agradecimentos*
 * **Digital Innovation One (DIO) por fornecer o curso Santander 2024 - Backend com Java e desafios práticos.**

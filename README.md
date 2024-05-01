@@ -29,7 +29,7 @@ https://github.com/gustavocampelo/DesafioControleFluxo.git
 
 **3. Navegue até o diretório do projeto dentro da sua IDE.**
 
-**4. Compile e execute o arquivo Contador.java.**
+**4. Compile e execute o arquivo `Contador.java`.**
 
 **5. Siga as instruções exibidas no terminal para fornecer os dois parâmetros e veja a contagem dos números impressos no console.**
 
